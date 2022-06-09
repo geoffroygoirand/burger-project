@@ -3,3 +3,7 @@ h2  {
   display: flex;
   justifiy-content: center;
 }
+
+body {
+  background-color: blue;
+}
